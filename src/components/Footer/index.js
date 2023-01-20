@@ -18,24 +18,18 @@ const Footer = () => (
             </button>
 
             <button type="button" className="footer-buttons">
-              <a href="https://twitter.com/KCHANDU19052001" target="/">
+              <a href="https://twitter.com/?lang=en-in" target="/">
                 <FaTwitter className={textColor} size={20} />
               </a>
             </button>
             <button type="button" className="footer-buttons">
-              <a
-                href="https://www.instagram.com/kolla_chandu_chowdary/"
-                target="/"
-              >
+              <a href="https://www.instagram.com/?hl=en" target="/">
                 <FaInstagram className={textColor} size={20} />
               </a>
             </button>
 
             <button type="button" className="footer-buttons">
-              <a
-                href="https://www.youtube.com/channel/UCCk271C44DQsmsrD-6vKeoA"
-                target="/"
-              >
+              <a href="https://www.youtube.com/" target="/">
                 <FaYoutube className={textColor} size={20} />
               </a>
             </button>
